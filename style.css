@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+
+    background-color: #264653;
+}
+.btn-color{
+    width: 100px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    background-color:#E76F51 ;
+    border: none;
+    border-radius: 5px;
+
+}
+.btn-bike{
+    width: 135px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    background-color:#E76F51  ;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+
+}
+.color{
+    color :#E76F51;
+}
+
+.name{
+    color: rgb(53, 53, 224);
+}
+.text-color{
+    color: #E76F51;
+}
+footer{
+    background-color: rgb(2, 2, 2);
+}
+.list{
+    list-style: none;
+}
+
+.btn-footer{
+    width: 200px;
+    height: 50px;
+}
+.apps-btn{
+    padding: 10px;
+}
+.fab{
+    font-size: 46px;
+}
