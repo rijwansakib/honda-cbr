@@ -13,7 +13,6 @@
     background-color:#E76F51 ;
     border: none;
     border-radius: 5px;
-
 }
 .btn-bike{
     width: 135px;
@@ -23,7 +22,6 @@
     border: none;
     border-radius: 5px;
     text-decoration: none;
-
 }
 .img-gray{
     filter: grayscale(100%);
@@ -31,7 +29,6 @@
 .color{
     color :#E76F51;
 }
-
 .name{
     color: rgb(53, 53, 224);
 }
@@ -44,14 +41,17 @@ footer{
 .list{
     list-style: none;
 }
-
 .btn-footer{
     width: 200px;
     height: 50px;
 }
-.apps-btn{
-    padding: 10px;
+.fas{
+    font-size: 24px;  
+    color: #E76F51;
 }
-.fab{
-    font-size: 46px;
+.far{
+    font-size: 24px;
+}
+.rounded-circle {
+    border-radius: 50%!important;
 }
